@@ -1,6 +1,6 @@
 %define		_name justgreen
 Summary:	X11 cursor theme - justgreen
-Summary(pl.UTF-8):   Notyw kursorów dla X11 - justgreen
+Summary(pl.UTF-8):	Notyw kursorów dla X11 - justgreen
 Name:		XcursorTheme-%{_name}
 Version:	0.1a
 Release:	1
