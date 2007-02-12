@@ -1,6 +1,6 @@
 %define		_name justgreen
 Summary:	X11 cursor theme - justgreen
-Summary(pl):	Notyw kursorów dla X11 - justgreen
+Summary(pl.UTF-8):   Notyw kursorÃ³w dla X11 - justgreen
 Name:		XcursorTheme-%{_name}
 Version:	0.1a
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 A gradiented, green/gray cursor theme.
 
-%description -l pl
-Zielono-szary motyw kursorów z gradientem.
+%description -l pl.UTF-8
+Zielono-szary motyw kursorÃ³w z gradientem.
 
 %prep
 
